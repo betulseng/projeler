@@ -1,0 +1,16 @@
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\bin\Debug\dilÖgrenmeProgrami.exe.config
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\bin\Debug\dilÖgrenmeProgrami.exe
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\bin\Debug\dilÖgrenmeProgrami.pdb
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\bin\Debug\MetroFramework.dll
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.csprojAssemblyReference.cache
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.anaEkran.resources
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.Properties.Resources.resources
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.csproj.GenerateResource.cache
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.csproj.CopyComplete
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.exe
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.pdb
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.ogrenmeEkrani.resources
+C:\Users\Ayşe Nur BAKIRCI\source\repos\dilÖgrenmeProgrami\dilÖgrenmeProgrami\obj\Debug\dilÖgrenmeProgrami.sinavEkrani.resources
